@@ -2,7 +2,20 @@
 
 ## A refactoring of the Horiseon website to include the necessary accessibility features to ensure consideration for all end users alike.
 
-A marketing agency has requested to refactor an existing site to make it more accessible. Starter code was cloned and refactored to ensure an accessible application is available to all consumers. Refactoring was required to add accessibility and ensure assistive technologies are properly in place. While following the Scout Rule, the code was left a little cleaner than it was found. Changes include, but are not limited to, addressing HTML semantics, applying CSS consolidations, and adding HTML and CSS comments for ease of future use. The result is an application that remains identical visually and functionally but addresses the gaps that previously existed for consumers with different abilities that should utitlize the application.
+A marketing agency has requested to refactor an existing site to make it more accessible. 
+
+Starter code was cloned and refactored to ensure an accessible application is available to all consumers. 
+
+Refactoring was required to add accessibility and ensure assistive technologies are properly in place. 
+
+While following the Scout Rule, the code was left a little cleaner than it was found. 
+
+Changes include, but are not limited to:
+    Addressed HTML semantics
+    Applied CSS consolidations
+    Added HTML and CSS comments for ease of future use. 
+    
+The result is an application that remains identical visually and functionally but addresses the gaps that previously existed for consumers with different abilities that should utitlize the application.
 
 ## Mock Up
 
